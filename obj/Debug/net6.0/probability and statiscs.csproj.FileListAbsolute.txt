@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\bin\Debug\net6.0\probability and statiscs.exe
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\bin\Debug\net6.0\probability and statiscs.deps.json
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\bin\Debug\net6.0\probability and statiscs.runtimeconfig.json
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\bin\Debug\net6.0\probability and statiscs.dll
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\bin\Debug\net6.0\probability and statiscs.pdb
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\obj\Debug\net6.0\probability and statiscs.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\obj\Debug\net6.0\probability and statiscs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\obj\Debug\net6.0\probability and statiscs.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\obj\Debug\net6.0\probability and statiscs.AssemblyInfo.cs
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\obj\Debug\net6.0\probability and statiscs.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\obj\Debug\net6.0\probability and statiscs.dll
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\obj\Debug\net6.0\refint\probability and statiscs.dll
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\obj\Debug\net6.0\probability and statiscs.pdb
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\obj\Debug\net6.0\probability and statiscs.genruntimeconfig.cache
+C:\Users\DELL\source\repos\probability and statiscs\probability and statiscs\obj\Debug\net6.0\ref\probability and statiscs.dll
